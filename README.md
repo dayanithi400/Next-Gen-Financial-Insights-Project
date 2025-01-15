@@ -3,9 +3,9 @@ PowerBi - Dashboard about the Car Sales
 
 ## Contributors
 
-| Name               | Role                  | GitHub Profile             |
-|--------------------|-----------------------|----------------------------|
-| Dayanithi Elumalai | [[@dayanithi400](https://github.com/dayanithi400/) |
+| Name               | GitHub Profile                                     |
+|--------------------|----------------------------------------------------|
+| Dayanithi Elumalai | [@dayanithi400](https://github.com/dayanithi400/)  |
 | Anas Jamil         | [@anasjamil01](https://github.com/anasjamil01)     |
 | Ram kude           | [@RamKude19](https://github.com/RamKude19)         |
 | Anika Shukla       | [@anikashukla26](https://github.com/anikashukla26) |
