@@ -12,7 +12,7 @@ PowerBi - Dashboard about the Car Sales
 
 Special thanks to everyone who contributed to this project!
 
-#Dataset Path Setting
+##Dataset Path Setting
 1.From Home tab
   Choose the Transformdata option and the Data Source Settings and Change Source and Set the Path for Dataset
 
